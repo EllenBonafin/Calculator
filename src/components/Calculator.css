@@ -11,3 +11,31 @@ button{
 button:hover{
   cursor: pointer;
 }
+
+.wrapper{
+  background-color: black;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.Org{
+  background-color: #FF9500;
+  color: white;
+}
+
+.ligth-grey{
+  background-color: #D4D4D2;
+}
+
+.Dark-grey{
+  background-color: #505050;
+  color: white;
+}
+
+.Result{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 1em;
+  font-size: 3.5em;
+}
